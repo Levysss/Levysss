@@ -41,7 +41,6 @@
         <img height="64px" src="https://th.bing.com/th/id/OIP.Dk7XfZUM2qrMLfCEIxfk4QHaHa?rs=1&pid=ImgDetMain">
         <br>
         <span>Unity</span>
-        
       </td>
     </tr>
   </tbody>
