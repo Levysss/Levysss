@@ -2,7 +2,7 @@
 ## Olá pessoal, aqui é LEVY 👋
 
 :pushpin: Moro em Pernambuco - Recife<br>
-:computer: Desenvolvedor Back-End<br>
+:computer: Game Dev<br>
 
 
 
@@ -33,6 +33,10 @@
         <img height="64px" src="https://img.icons8.com/color/48/000000/git.png"">
         <br>
         <span>Git</span>
+        <td width="25%" align="center">
+        <img height="64px" src="https://th.bing.com/th/id/OIP.Dk7XfZUM2qrMLfCEIxfk4QHaHa?rs=1&pid=ImgDetMain">
+        <br>
+        <span>Unity</span>
       </td>
     </tr>
   </tbody>
