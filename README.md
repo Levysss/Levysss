@@ -21,8 +21,8 @@
         <img height="64px" src="https://img.icons8.com/color/48/000000/spring-logo.png">
         <br>
         <span>Spring<span>
-        <td width="25%" align="center">
-        <img height="80px" src="https://th.bing.com/th/id/OIP.o2pTQlrjiIteX1bN0wNmyAHaHa?w=800&h=800&rs=1&pid=ImgDetMain">
+        <td width="35%" align="center">
+        <img height="70px" src="https://th.bing.com/th/id/OIP.o2pTQlrjiIteX1bN0wNmyAHaHa?w=800&h=800&rs=1&pid=ImgDetMain">
         <br>
         <span>C#</span>
       </td>
@@ -37,8 +37,8 @@
         <img height="64px" src="https://img.icons8.com/color/48/000000/git.png"">
         <br>
         <span>Git</span>
-        <td width="25%" align="center">
-        <img height="80px" src="https://th.bing.com/th/id/OIP.Dk7XfZUM2qrMLfCEIxfk4QHaHa?rs=1&pid=ImgDetMain">
+        <td width="35%" align="center">
+        <img height="70px" src="https://th.bing.com/th/id/OIP.Dk7XfZUM2qrMLfCEIxfk4QHaHa?rs=1&pid=ImgDetMain">
         <br>
         <span>Unity</span>
       </td>
