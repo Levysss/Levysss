@@ -17,7 +17,7 @@
         <br>
         <span>Java</span>
       </td>
-      <td width="25%" align="center">
+      <td width="35%" align="center">
         <img height="64px" src="https://img.icons8.com/color/48/000000/spring-logo.png">
         <br>
         <span>Spring<span>
@@ -33,7 +33,7 @@
         <br>
         <span>Photoshop</span>
       </td>
-      <td width="25%" align="center">
+      <td width="35%" align="center">
         <img height="64px" src="https://img.icons8.com/color/48/000000/git.png"">
         <br>
         <span>Git</span>
