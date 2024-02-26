@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#8400ff&size=30&center=true&vCenter=true&width=1000&lines=Fala+dev,+tranquilo?;Quer+saber+um+pouco+de+mim?;Fique+a+vontade!;Prometo+não+decepcionar)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8400ff&size=30&center=true&vCenter=true&width=1000&lines=Fala+dev,+tranquilo?;Quer+saber+um+pouco+de+mim?;Fique+a+vontade!;Prometo+não+decepcionar)](https://git.io/typing-svg)
 
 :pushpin: Moro em Pernambuco - Recife<br>
 :computer: Game Dev<br>
