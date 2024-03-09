@@ -8,6 +8,7 @@
 
 
 ## Softwares, linguagens, frameworks e bibliotecas que utilizo:
+<div align="center">  
 <table>
   <tbody>
     <tr>
@@ -46,9 +47,12 @@
     </tr>
   </tbody>
 </table>
+</div>
 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Levysss&show_icons=true&theme=github_dark&rank_icon=github&count_private=true&hide_border=true" alt="Levysss github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levysss&show_icons=true&theme=github_dark&rank_icon=github&count_private=true&hide_border=true" />
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Levysss&show_icons=true&theme=github_dark&rank_icon=github&count_private=true&hide_border=true&title_color=BA55D3&icon_color=BA55D3&text_color=BA55D3&bg_color=0d1117" alt="Levysss github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levysss&show_icons=true&theme=github_dark&rank_icon=github&count_private=true&hide_border=true&title_color=BA55D3&text_color=ff91a4&bg_color=0d1117" />
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8400ff&height=120&section=footer"/>
 
