@@ -49,6 +49,7 @@
 </table>
 </div>
 
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Levysss&show_icons=true&theme=github_dark&rank_icon=github&count_private=true&hide_border=true&title_color=8400ff&icon_color=8400ff&text_color=ebc5fa&bg_color=0d1117" alt="Levysss github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levysss&show_icons=true&theme=github_dark&rank_icon=github&count_private=true&hide_border=true&title_color=8400ff&text_color=ebc5fa&bg_color=0d1117" />
