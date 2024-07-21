@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8400ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8400ff&size=30&center=true&vCenter=true&width=1000&lines=Fala+dev,+tranquilo?;Quer+saber+um+pouco+de+mim?;Fique+a+vontade!;Prometo+não+decepcionar)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8400ff&size=30&center=true&vCenter=true&width=1000&lines=Opa+Programador,+tranquilo?;Quer+saber+um+pouco+de+mim?;Fique+a+vontade!;Prometo+não+decepcionar)](https://git.io/typing-svg)
 
 :pushpin: Moro em Pernambuco - Recife<br>
 :computer: Game Dev<br>
