@@ -5,7 +5,7 @@
 :pushpin: Moro em Pernambuco - Recife<br>
 :computer: Game Dev<br>
 
-
+<h2>Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou no segundo período do curso de Jogos Digitais. Minha paixão por jogos vai além de jogá-los: amo o processo criativo e técnico de desenvolvê-los, transformando ideias em experiências interativas e únicas.</h2>
 
 ## Softwares, linguagens, frameworks e bibliotecas que utilizo:
 <div align="center">  
