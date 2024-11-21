@@ -2,10 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8400ff&size=30&center=true&vCenter=true&width=1000&lines=Opa+Programador,+tranquilo?;Quer+saber+um+pouco+de+mim?;Fique+a+vontade!)](https://git.io/typing-svg)
 
+
+<h3>Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou no segundo período do curso de Jogos Digitais. Minha paixão por jogos vai além de jogá-los: amo o processo criativo e técnico de desenvolvê-los, transformando ideias em experiências interativas e únicas.</h3>
 :pushpin: Moro em Pernambuco - Recife<br>
 :computer: Game Dev<br>
 
-<h2>Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou no segundo período do curso de Jogos Digitais. Minha paixão por jogos vai além de jogá-los: amo o processo criativo e técnico de desenvolvê-los, transformando ideias em experiências interativas e únicas.</h2>
+
 
 ## Softwares, linguagens, frameworks e bibliotecas que utilizo:
 <div align="center">  
