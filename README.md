@@ -6,7 +6,9 @@
 <h3>Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou no segundo período do curso de Jogos Digitais. Minha paixão por jogos vai além de jogá-los: amo o processo criativo e técnico de desenvolvê-los, transformando ideias em experiências interativas e únicas.</h3>
 :pushpin: Moro em Pernambuco - Recife<br>
 :computer: Game Dev<br>
-
+<div align="center">
+<a href="https://levyss.itch.io/" >Link para meu portifólio de jogos!</a>
+</div>
 <div align="center">
   
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
